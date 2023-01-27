@@ -1,0 +1,21 @@
+{
+  "name": "odin-project-basic-information-site",
+  "version": "1.0.0",
+  "description": "The Odin Project - NodeJS Course - Project: Basic Informational Site",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/televisionpham/odin-project-basic-information-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/televisionpham/odin-project-basic-information-site/issues"
+  },
+  "homepage": "https://github.com/televisionpham/odin-project-basic-information-site#readme"
+}
